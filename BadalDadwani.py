@@ -92,4 +92,4 @@ button_clear_cart = tk.Button(frame_actions, text="Clear Cart", command=clear_ca
 button_clear_cart.grid(row=1, columnspan=2)
 
 # Start the Tkinter event loop
-root.mainloop(
+root.mainloop()
